@@ -10,13 +10,13 @@
 
 
 # 变量的使用
-UUID，在线生成。
+UUID，<a href="https://1024tools.com/uuid" rel="nofollow">在线生成</a>。
 PROXYIP，来源于网络分享：proxy.xxxxxxxx.tk、edgetunnel.anycast.eu.org、ts.hpc.tw、cdn.xn--b6gac.eu.org、cdn-all.xn--b6gac.eu.org、bestproxy.onecf.eu.org。
 TR_PASS，默认要修改的密码。
 kv，绑定KV命名空间。
 /panel，部署成功后，在 url 后面增加/panel来进行访问面板，访问面板修改的密码将会保存在kv对里。
 IP优选工具的使用
 win 电脑下载IP优选工具/CF优选官方IP[win电脑版].7z，解压后，退出VPN，运行本软件。
-下载CloudflareScanner，解压后，退出VPN，运行本软件。
+下载<a href="https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5">CloudflareScanner</a>，解压后，退出VPN，运行本软件。
 特别感谢
 bia-pain-bache
